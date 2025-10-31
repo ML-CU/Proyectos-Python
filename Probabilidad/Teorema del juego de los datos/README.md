@@ -1,0 +1,2 @@
+# PROBABILIDAD - SIMULACIÓN PARA HALLAR EL "VALOR ESPERADO" - JUEGO DE LOS DADOS
+# Diana y Jason juegan a los dados, si cae 6 o 7 Diana le paga a Jason 9 dolares, si cae 9 o 10 Jason le paga a Diana 9 pesos ¿Quién gana y quién pierde? ¿Cuanto gana o pierde Diana, o cuanto gana o pierde Jason?
